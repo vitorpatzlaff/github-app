@@ -23,8 +23,7 @@
     "lint:fix": "standard --fix",
     "build": "cross-env NODE_ENV=production webpack --progress --config webpack/prod.config",
     "storybook": "start-storybook -p 6006 -c storybook",
-    "build-storybook": "build-storybook -c storybook",
-    "update-packages": "node scripts/update.js"
+    "build-storybook": "build-storybook -c storybook"
   },
   "devDependencies": {
     "@babel/cli": "7.17.6",
