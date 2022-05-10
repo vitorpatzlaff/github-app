@@ -1,8 +1,8 @@
-# [Memory Game](https://vitorpatzlaff-memory-game.netlify.app)
+# [GitHub App](https://vitorpatzlaff-github-app.netlify.app)
 ### English
-This is a memory game. When the app is started, a script generates twelve pairs of cards, they are positioned randomly. In addition, there is a scoreboard above the 'stage' and a modal when the game ends, it shows who wins and the final scoreboard. The app is totally responsive and it has some animations to smooth the style.
+This app uses GitHub API, so it can get information about a user. In the search bar, you can enter a nickname of a GitHub account, then this name will be used for getting other pieces of information about this account. The app has two repositories list and a pagination system. It was the first time I used React JS, so the app is kind of ugly, but the main idea is to show the coding by using React.
 ##### Project Language: English
 ##
 ### Português
-Este é um jogo da memória. Quando o app é aberto, um script gera doze pares de cartas, elas são posicionadas aleatoriamente. Além disso, há um placar acima do 'stage' e um modal quando o jogo acaba que mostra quem ganha e o placar final. O app é totalmente responsivo e tem algumas animações para suavizar o estilo. 
+Este app usa a API do GitHub, assim ele consegue pegar informações de um usuário. Na barra de pesquisa, você pode inserir um nickname de uma conta do GitHub, então este nome será usado para pegar outras informações sobre esta conta. O app tem um duas listas de repositórios e um sistema de paginação. Foi a primeita vez que eu usei o React JS, então o app está meio feio, mas a ideia principal é mostrar a codagem usando React.
 ##### Idioma do projeto: Inglês
