@@ -10,7 +10,7 @@ export default {
 
 export const First = () => (
   <Repos
-    title='Favoritos'
+    title='Favorites'
   />
 )
 
